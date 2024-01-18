@@ -1,16 +1,16 @@
 
-#Juego del Número Secreto
+# Juego del Número Secreto
 Descripción:
 Esta aplicación web te desafía a adivinar un número secreto que ha sido generado aleatoriamente. Tienes que ingresar un número y recibirás indicaciones sobre si el número secreto es mayor o menor. El juego te informará sobre la cantidad de intentos realizados y te felicitará cuando adivines correctamente.
 
-#Funcionalidades
+# Funcionalidades
 Generación de Número Secreto: La aplicación genera un número secreto de forma aleatoria entre 1 y un número máximo definido (en este caso, 10).
 
 Verificación de Intento: Después de ingresar un número, la aplicación te dirá si el número secreto es mayor o menor. Si adivinas correctamente, recibirás un mensaje de felicitaciones.
 
 Reinicio del Juego: Puedes reiniciar el juego en cualquier momento para probar nuevamente.
 
-#Instrucciones de Uso
+# Instrucciones de Uso
 Ingresa un número del 1 al número máximo indicado en el mensaje de intervalo de números.
 Haz clic en el botón "Intentar" para verificar tu elección.
 Sigue recibiendo indicaciones hasta que adivines el número secreto.
